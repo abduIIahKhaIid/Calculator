@@ -5,10 +5,14 @@ A simple command line calculator built with TypeScript and Node.js.
 To install the calculator, use npm:
 
 ```bash
-npm i abdullahkhalidcalculator
+npm i abdullahkhalidcalculator1
 ```
 
 # Usage
 ```bash
 npm start
 ```
+
+
+
+
