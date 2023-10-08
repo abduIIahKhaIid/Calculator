@@ -1,7 +1,14 @@
 # calculator-app
-A simple command line calculator built with Typescript and Node.js.
+A simple command line calculator built with TypeScript and Node.js.
 
 # Installation
+To install the calculator, use npm:
+
 ```bash
 npm i abdullahkhalidcalculator
+```
+
+# Usage
+```bash
 npm start
+```
