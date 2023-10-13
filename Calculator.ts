@@ -53,4 +53,4 @@ async function main() {
     } while (operator != '=Equal');
 }
 
-
+main();
