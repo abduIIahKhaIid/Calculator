@@ -5,7 +5,6 @@ import chalkAnimation from "chalk-animation";
 
 
 
-
 async function Question(count: number): Promise<number> {
     let answer = await inquirer.prompt([{
         name: 'num',
