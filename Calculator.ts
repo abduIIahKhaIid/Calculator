@@ -10,6 +10,9 @@ async function Question(count: number): Promise<number> {
         name: 'num',
         type: "input",
         message: chalk.green(`Enter the ${count} value `),
+        validate: () => {
+           
+        }
     }])
     return +answer.num;
 }
